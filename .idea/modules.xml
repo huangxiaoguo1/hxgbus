@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Hxgbus.iml" filepath="$PROJECT_DIR$/Hxgbus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lib_bus/lib_bus.iml" filepath="$PROJECT_DIR$/lib_bus/lib_bus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lib_hxgbus/lib_hxgbus.iml" filepath="$PROJECT_DIR$/lib_hxgbus/lib_hxgbus.iml" />
+    </modules>
+  </component>
+</project>
