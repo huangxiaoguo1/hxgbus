@@ -108,7 +108,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         Log.e("huangxiaoguo", name + "---什么都没带");
     }
     /**
-     * 主线程，带有tag标记
+     * 带有tag标记
      *
      * @param name
      */
